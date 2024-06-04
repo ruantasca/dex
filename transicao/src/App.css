@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-image: linear-gradient( to right, rgb(162, 0, 255) , rgb(0, 0, 0), rgb(0, 0, 0), rgb(107, 2, 228) );
+
+  color: rgb(255, 238, 0);
+  text-align: center;
+  padding: 20px;
+  width: 100%; 
+  position: fixed;
+  top: 0; 
+  z-index: 1000; 
+  font-family:Arial, Helvetica, sans-serif;
+  
+  
+}
+
+.header h1{
+    font-size: 70px;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+
+.a{
+    background-color: black;
+ 
+    color: rgb(255, 0, 0);
+    
+}
+
+body{
+    background-color: rgb(196, 211, 62);
+}
